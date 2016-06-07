@@ -21,3 +21,9 @@
 \contentsline {chapter}{\numberline {3}Multipath wave propagation and rake receiver}{9}{chapter.3}
 \contentsline {chapter}{\numberline {4}Receive antenna diversity}{10}{chapter.4}
 \contentsline {chapter}{\numberline {5}Wideband Channel Measurement}{11}{chapter.5}
+\contentsline {section}{\numberline {5.1}Scenario}{11}{section.5.1}
+\contentsline {section}{\numberline {5.2}Task}{11}{section.5.2}
+\contentsline {section}{\numberline {5.3}Information about the transmit signal}{11}{section.5.3}
+\contentsline {section}{\numberline {5.4}Algorithm description \cite {e1}}{11}{section.5.4}
+\contentsline {section}{\numberline {5.5}Observation and interpretation}{11}{section.5.5}
+\contentsline {section}{\numberline {5.6}Summary}{11}{section.5.6}
