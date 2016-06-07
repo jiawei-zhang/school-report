@@ -1,0 +1,50 @@
+\documentclass[20pt,a4paper]{report}
+%\documentclass[a4paper,12pt,titlepage]{scrartcl}
+\usepackage[utf8]{inputenc}
+
+\usepackage{geometry} % width and length of article
+%\geometry{left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm}
+
+ \renewcommand{\familydefault}{\sfdefault} % change the defalt font to sans font
+
+\usepackage{natbib}
+\usepackage{graphicx}
+\usepackage{mathrsfs}
+\usepackage{amsmath}
+\usepackage{cancel}
+\usepackage{amssymb} % blacksquare
+\usepackage{amsfonts} % Expectation
+\usepackage{bbm} % indicator function
+\usepackage{float}
+\usepackage{color} % \definecolor
+\usepackage{fancyhdr} % fancyhead
+\usepackage{enumitem} % enumerate 
+\usepackage{listings}
+\usepackage{subfigure} % zitu
+\usepackage[super]{nth} % 3rd
+\usepackage{siunitx} % SI units
+
+
+
+\lstset{language=Matlab}
+\lstset{breaklines}
+
+%\usepackage{setspace} % 1,5 Zeilenabstand
+%\onehalfspacing
+
+\graphicspath{{figures/}}
+
+\usepackage[pdfpagelabels=true
+%,backref %references in Literatur-Verz.
+, hyperfigures
+, bookmarksnumbered
+, naturalnames
+, plainpages=false
+]{hyperref}
+
+%\definecolor{darkblue}{rgb}{0,0,.4}
+%\definecolor{darkred}{rgb}{.4,0,0}
+%\definecolor{darkgreen}{rgb}{0,0.4,0}
+%\hypersetup{breaklinks, colorlinks, linkcolor=black, menucolor=darkblue, pagecolor=darkblue, urlcolor=blue, citecolor=black}
+
+%\hypersetup{breaklinks, colorlinks, linkcolor=black,  urlcolor=blue, citecolor=black} % after adding it the red square will disappear

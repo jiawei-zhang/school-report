@@ -1,0 +1,23 @@
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Contents}{I}{section*.1}
+\contentsline {section}{\numberline {0.1}Signal Structure}{1}{section.0.1}
+\contentsline {subsection}{\numberline {0.1.1}Complex phase modulation: QPSK}{1}{subsection.0.1.1}
+\contentsline {subsection}{\numberline {0.1.2}Transmit pulse shape filter}{1}{subsection.0.1.2}
+\contentsline {subsection}{\numberline {0.1.3}CDMA Spreading}{2}{subsection.0.1.3}
+\contentsline {subsection}{\numberline {0.1.4}Scrambling}{2}{subsection.0.1.4}
+\contentsline {subsection}{\numberline {0.1.5}Burst Types}{2}{subsection.0.1.5}
+\contentsline {subsection}{\numberline {0.1.6}Timeslot Structure}{2}{subsection.0.1.6}
+\contentsline {subsection}{\numberline {0.1.7}Midamble sequences}{3}{subsection.0.1.7}
+\contentsline {section}{\numberline {0.2}The SDR platform (Wireless Experimental System II)}{3}{section.0.2}
+\contentsline {section}{\numberline {0.3}Organization of this Protocol}{3}{section.0.3}
+\contentsline {chapter}{\numberline {1}Transmission and detection of a single CDMA signal}{4}{chapter.1}
+\contentsline {section}{\numberline {1.1}Scenario}{4}{section.1.1}
+\contentsline {section}{\numberline {1.2}Task}{4}{section.1.2}
+\contentsline {section}{\numberline {1.3}Information about transmit signal}{4}{section.1.3}
+\contentsline {section}{\numberline {1.4}Algorithm description\cite {e1}}{4}{section.1.4}
+\contentsline {section}{\numberline {1.5}Observation and interpretation}{6}{section.1.5}
+\contentsline {section}{\numberline {1.6}Summary}{7}{section.1.6}
+\contentsline {chapter}{\numberline {2}Transmission and detection of superimposed CDMA signals}{8}{chapter.2}
+\contentsline {section}{\numberline {2.1}bilblibli}{8}{section.2.1}
+\contentsline {chapter}{\numberline {3}Multipath wave propagation and rake receiver}{9}{chapter.3}
+\contentsline {chapter}{\numberline {4}Receive antenna diversity}{10}{chapter.4}
+\contentsline {chapter}{\numberline {5}Wideband Channel Measurement}{11}{chapter.5}
